@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amocrmsheets",
+  "private_key_id": "3d5c4cc53e735729ecb52d4c6e6884eb3dc61c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC64+ZIOoc01Rg0\nXCKUA55/toMyuLtChG/BR9bbg9AEWOSFvGXY4kaSJ7snrWZW+O2wcUJviwd74VAJ\nRAiDnmTKHvCQABrVxg7D7jqH6KE2OJzLXWD9VyZqU0U6Eqvjaf0eYG//IfnRTB+z\nRtjpMzjm4Nx2CBKiluct6aIQcpp8CUd3fgmu4idKNOu3dP7Gkh7x9JcSXr8K/w2F\noMbmqAxzhaVphnEzC7hMGHsVDuWCHXa3vWhKNgh1/R/1feZmGLmz5SnX0L4NKfYF\nmxubyK0aY3jpmE38eYIPRteGVQ2cFCuRf+S0NfAlGPEINyYJMBan2Leo59GzXs7O\n1S2WK3BXAgMBAAECggEAOqqEpMK+o56K8RDFB/qU3BlSWO81VT2WiTFAaHsZpuuy\nnKqVu/3X0lRngx6DBCUzE9KR3MrjSAdj5Oy20X48vFf3AvUNd3KrOuUC+ZvUU111\nFr+SzSP42qKWFhM7YvFn9AuozImBTqqbPt8sAxRBtfP7MI/7LY+6NSbkaU5YYTvM\ntlTUkzyJD/Bwf/OjEYPQKqioAUKUwLBaH5vWz7f305F7iCj3xXQ0hBbVJe4oQ/bl\nS9IsWRZgDeU0e8O6UkAtg3giZYUX4NVCW2FGR5oEOWBLYecshNEEMw0s2yeIYRqs\nFLI8ntGQ7by8t0DyCUyMnOrZEY1k7RkEoysC+UzxAQKBgQDsaepgKQFd+s05w6HY\nR3xbRgbWcoeZgt2jx/u2PzzpklRwBz2GpONdmaBnLI7ZBeAE6/yZl5bKAi7AwlvI\nerny++dR7akygURYonEU8T39iGEb3qIZXAyI9f71q/b7VSWPCyy++Xujt/Xm2LCp\nEYn4UC6JcLbwzYY2A6m615OTVwKBgQDKX6Si/s/Nl1YeeEy9C7ntRxx9QswNhKHs\nJvtjf3IPh3MvLc2ZXEoW/J4HRKx+3f8ZDN82M7YSAYgSeL9ZcdAhNUrkDtH7mpED\nZl3m+S7PKQbjyCNKWPEdD3ucvG3X7sEzozi4EvCBwbPuAbyD+F6cgRjMwsvvSHBg\ni5x2BQHrAQKBgB1PQERtsQKyvlDEBUOoES3Lr7tUdaU9iTbt6zH8AxQ+FQPSkfko\nZhvLmQxRhOA5Dz3s9+Me3Q3sWVmCfxiKxpTuUA5jNY/SYOPQN87N3c6Z4tgusNAO\nDmvIe7R/fl5IfyCN1R1UFtUEUJMvGC/NwdosLqjRdYzDHjmCGL/WTDB/AoGBAICz\nqNGcOe3nE/bWzP7hSUI0mlKzO3BRbGTyOagCcjicDM3xVDL3NYs+5wV6UDVy23xD\n6mTfKCh1XuNYdWDd995WtSUqo7Jej2DZJljxGirXTbFpI8Bxpg20Pgnk7/qGtcow\nQK8YJGpxFQwFgK1xNEJV+76lF+s6Z3WO9Fc+QgUBAoGBALp91/tZY8IatCgHEJXB\nsmpINVXVuzbWUO4zZ4LjC+xUZaspJU3CGk5u9LIsSmBefgEySLsg3iChQ2z20o6u\n1MedajMOJ8iw5GywdY7CZ0bTqUfifpTlk/Tos8+0QO0uaT8bzaEfwCam8U5uUL2V\nM4OXuR0hQqe4DUxbUebGj9YA\n-----END PRIVATE KEY-----\n",
+  "client_email": "amocrmsheets@amocrmsheets.iam.gserviceaccount.com",
+  "client_id": "105505029166381085730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amocrmsheets%40amocrmsheets.iam.gserviceaccount.com"
+}
